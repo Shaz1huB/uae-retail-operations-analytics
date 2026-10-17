@@ -1,0 +1,421 @@
+Order_ID,Order_Date,Region,Sales_Channel,Product_Category,Product,Units_Sold,Unit_Price_AED,Discount_Pct,Sales_AED,Cost_AED,Order_Status,Delivery_Days,Customer_Rating,Returned
+ORD-10381,02-01-2025,Abu Dhabi,Online,Beauty,Hair Dryer,5,150.62,0,753.1,380.02,Cancelled,,,No
+ORD-10104,03-01-2025,Al Ain,Retail Store,Fashion,Running Shoes,5,242.02,0,1210.1,670.94,Returned,6,2,Yes
+ORD-10303,04-01-2025,Dubai,Marketplace,Grocery,Snack Bundle,1,37.6,0.05,35.72,17.51,Processing,,,No
+ORD-10410,06-01-2025,Dubai,Retail Store,Home & Living,Water Bottle,4,42.13,0,168.52,58.62,Cancelled,,,No
+ORD-10415,07-01-2025,Sharjah,Retail Store,Home & Living,Desk Lamp,5,71.66,0.1,322.47,158.74,Delivered,7,4,No
+ORD-10233,08-01-2025,Abu Dhabi,Online,Home & Living,Desk Lamp,1,73.28,0.05,69.62,31.18,Delivered,3,2,No
+ORD-10300,08-01-2025,Sharjah,Online,Beauty,Hair Dryer,2,149.16,0.05,283.4,163.93,Processing,,,No
+ORD-10369,09-01-2025,Abu Dhabi,Retail Store,Home & Living,Water Bottle,2,40.5,0.15,68.85,29.88,Cancelled,,,No
+ORD-10170,09-01-2025,Dubai,Online,Home & Living,Water Bottle,5,38.12,0.2,152.48,69.22,Delivered,7,4,No
+ORD-10272,09-01-2025,Dubai,Retail Store,Electronics,Wireless Headphones,4,182.58,0.05,693.8,352.58,Delivered,7,3,No
+ORD-10385,12-01-2025,Dubai,Online,Electronics,Smart Watch,3,290.32,0.15,740.32,602.39,Delivered,2,4,No
+ORD-10138,12-01-2025,Dubai,Online,Beauty,Hair Dryer,2,153.22,0.2,245.15,154.13,Delivered,2,1,No
+ORD-10147,13-01-2025,Dubai,Online,Fashion,Running Shoes,3,259.15,0.05,738.58,419.44,Delivered,6,5,No
+ORD-10117,14-01-2025,Dubai,Retail Store,Electronics,Wireless Headphones,5,181.4,0.15,770.95,499.26,Delivered,1,3,No
+ORD-10328,14-01-2025,Al Ain,Online,Grocery,Snack Bundle,2,34.15,0.2,54.64,34.81,Delivered,4,5,No
+ORD-10056,16-01-2025,Dubai,Retail Store,Home & Living,Storage Box Set,1,51.56,0.15,43.83,20.54,Delivered,4,5,No
+ORD-10250,16-01-2025,Dubai,Retail Store,Beauty,Face Cleanser,1,41.64,0.1,37.48,18.72,Delivered,7,5,No
+ORD-10397,17-01-2025,dubai ,Marketplace,Grocery,Olive Oil,3,48.5,0.05,138.22,79.83,Delivered,5,3,No
+ORD-10352,17-01-2025,Sharjah,Retail Store,Home & Living,Storage Box Set,1,51.65,0.2,41.32,23.62,Delivered,1,4,No
+ORD-10150,22-01-2025,Al Ain,Retail Store,Electronics,Wireless Headphones,2,169.02,0,338.04,192.08,Delivered,6,4,No
+ORD-10279,24-01-2025,Al Ain,Retail Store,Fashion,Cotton T-Shirt,5,47.77,0.15,203.02,92.85,Processing,,,No
+ORD-10036,24-01-2025,Sharjah,Marketplace,Beauty,Hair Dryer,1,145.82,0.1,131.24,78.16,Delivered,2,5,No
+ORD-10045,25-01-2025,Dubai,Marketplace,Beauty,Face Cleanser,2,44.84,0.15,76.23,37.55,Processing,,,No
+ORD-10387,25-01-2025,Sharjah,Marketplace,Fashion,Cotton T-Shirt,3,49.39,0.15,125.94,57.78,Returned,2,4,Yes
+ORD-10069,28-01-2025,Dubai,Marketplace,Electronics,USB-C Hub,1,97.28,0,97.28,46.02,Delivered,5,3,No
+ORD-10217,29-01-2025,Dubai,Marketplace,Grocery,Snack Bundle,1,36.22,0,36.22,16.56,Delivered,1,1,No
+ORD-10127,29-01-2025,Ajman,Marketplace,Grocery,Olive Oil,1,44.31,0,44.31,27.52,Delivered,1,1,No
+ORD-10246,31-01-2025,Sharjah,Marketplace,Fashion,Running Shoes,1,220.51,0.1,198.46,139.36,Delivered,4,1,No
+ORD-10280,31-01-2025,Abu Dhabi,Marketplace,Fashion,Cotton T-Shirt,5,46.19,0.05,219.4,93.55,Delivered,3,1,No
+ORD-10196,01-02-2025,Dubai,Retail Store,Beauty,Face Cleanser,3,48.85,0.1,131.9,53.93,Delivered,8,4,No
+ORD-10007,01-02-2025,Dubai,Online,Electronics,Wireless Headphones,5,167.18,0,835.9,506.99,Processing,,,No
+ORD-10172,02-02-2025,Sharjah,Online,Electronics,Smart Watch,5,293.7,0.15,1248.22,934.08,Delivered,2,1,No
+ORD-10001,02-02-2025,Abu Dhabi,Online,Fashion,Cotton T-Shirt,3,53.04,0,159.12,62.07,Delivered,6,3,No
+ORD-10359,03-02-2025,Al Ain,Online,Home & Living,Desk Lamp,1,81.24,0,81.24,31.04,Cancelled,,,No
+ORD-10033,03-02-2025,Dubai,Retail Store,Beauty,Skincare Set,1,114.67,0,114.67,53.28,Processing,,,No
+ORD-10133,03-02-2025,Dubai,Retail Store,Electronics,USB-C Hub,3,90.39,0.1,244.05,151.53,Returned,8,5,Yes
+ORD-10243,04-02-2025,Abu Dhabi,Marketplace,Electronics,Wireless Headphones,2,187.85,0.1,338.13,188.26,Delivered,2,4,No
+ORD-10376,04-02-2025,Abu Dhabi,Marketplace,Beauty,Face Cleanser,1,44.97,0.1,40.47,17.94,Returned,4,2,Yes
+ORD-10010,04-02-2025,Ajman,Online,Home & Living,Storage Box Set,2,55.26,0.05,104.99,41.2,Delivered,4,5,No
+ORD-10218,05-02-2025,Al Ain,Retail Store,Home & Living,Desk Lamp,1,80.14,0.05,76.13,31.73,Cancelled,,,No
+ORD-10087,05-02-2025,Abu Dhabi,Marketplace,Grocery,Snack Bundle,5,32.46,0,162.3,82.34,Delivered,5,4,No
+ORD-10258,07-02-2025,Abu Dhabi,Online,Beauty,Skincare Set,3,117.04,0.1,316.01,173.63,Delivered,1,4,No
+ORD-10171,08-02-2025,Al Ain,Online,Fashion,Backpack,2,103.69,0.15,176.27,95.75,Processing,,,No
+ORD-10310,09-02-2025,Dubai,Retail Store,Grocery,Coffee Beans,3,67.58,0.15,172.33,104.84,Cancelled,,,No
+ORD-10322,09-02-2025,Al Ain,Retail Store,Home & Living,Desk Lamp,2,72.31,0.15,122.93,66.64,Delivered,8,3,No
+ORD-10120,11-02-2025,Abu Dhabi,Online,Beauty,Hair Dryer,5,164.27,0.15,698.15,413.27,Delivered,4,4,No
+ORD-10365,12-02-2025,Dubai,Retail Store,Grocery,Olive Oil,3,43.8,0,131.4,75.94,Returned,1,5,Yes
+ORD-10313,13-02-2025,Dubai,Online,Beauty,Skincare Set,2,110.81,0,221.62,103.02,Delivered,6,4,No
+ORD-10198,13-02-2025,Sharjah,Online,Electronics,Wireless Headphones,1,177.55,0,177.55,99.09,Delivered,2,3,No
+ORD-10418,14-02-2025,Abu Dhabi,Marketplace,Electronics,USB-C Hub,3,92.15,0.1,248.81,141.45,Delivered,7,2,No
+ORD-10386,14-02-2025,Al Ain,Retail Store,Grocery,Coffee Beans,3,62.23,0.2,149.35,107.98,Delivered,5,2,No
+ORD-10018,16-02-2025,Sharjah,Marketplace,Electronics,Smart Watch,1,317.82,0.1,286.04,190.69,Delivered,5,3,No
+ORD-10221,16-02-2025,Dubai,Retail Store,Electronics,Smart Watch,1,317.22,0,317.22,186.78,Cancelled,,,No
+ORD-10157,16-02-2025,Ajman,Retail Store,Home & Living,Storage Box Set,4,60.07,0.1,216.25,86.18,Processing,,,No
+ORD-10074,17-02-2025,Dubai,Online,Beauty,Skincare Set,1,108.4,0,108.4,59.34,Returned,5,5,Yes
+ORD-10414,18-02-2025,Sharjah,Online,Fashion,Running Shoes,2,258.73,0.1,465.71,264.27,Delivered,3,1,No
+ORD-10241,21-02-2025,Sharjah,Online,Grocery,Coffee Beans,3,70.58,0,211.74,95.72,Delivered,5,2,No
+ORD-10329,21-02-2025,Abu Dhabi,Online,Beauty,Hair Dryer,4,151,0,604,320.66,Delivered,4,2,No
+ORD-10100,21-02-2025,Al Ain,Online,Fashion,Running Shoes,2,247.68,0.05,470.59,251.78,Returned,6,4,Yes
+ORD-10306,21-02-2025,Ajman,Online,Grocery,Snack Bundle,2,32.68,0.05,62.09,35.31,Delivered,2,2,No
+ORD-10118,21-02-2025,Abu Dhabi,Online,Fashion,Running Shoes,2,238.3,0.1,428.94,254.5,Delivered,6,4,No
+ORD-10408,22-02-2025,Ajman,Marketplace,Fashion,Backpack,4,103.06,0.15,350.4,223.75,Delivered,1,3,No
+ORD-10256,22-02-2025,Abu Dhabi,Marketplace,Electronics,USB-C Hub,2,92.19,0,184.38,92.74,Delivered,7,3,No
+ORD-10390,25-02-2025,Sharjah,Marketplace,Electronics,Smart Watch,3,307.17,0,921.51,545.57,Delivered,6,1,No
+ORD-10273,25-02-2025,Dubai,Online,Fashion,Backpack,4,116.39,0.1,419,212.15,Returned,5,1,Yes
+ORD-10357,25-02-2025,Ajman,Retail Store,Fashion,Running Shoes,2,224.31,0,448.62,280.63,Delivered,1,1,No
+ORD-10182,25-02-2025,Al Ain,Online,Fashion,Backpack,4,101.06,0.2,323.39,205.08,Delivered,5,4,No
+ORD-10058,26-02-2025,Abu Dhabi,Online,Grocery,Snack Bundle,2,34.06,0,68.12,31.65,Delivered,3,3,No
+ORD-10083,28-02-2025,Dubai,Online,Home & Living,Desk Lamp,4,74.51,0.15,253.33,121.79,Delivered,4,2,No
+ORD-10178,28-02-2025,Al Ain,Retail Store,Home & Living,Water Bottle,1,37.03,0.1,33.33,14.63,Processing,,,No
+ORD-10287,28-02-2025,Sharjah,Marketplace,Electronics,USB-C Hub,1,104.42,0.1,93.98,44.28,Processing,,,No
+ORD-10168,02-03-2025,Al Ain,Online,Beauty,Hair Dryer,4,140.86,0,563.44,289.93,Delivered,1,5,No
+ORD-10041,02-03-2025,Ajman,Marketplace,Beauty,Hair Dryer,1,160.09,0,160.09,84.1,Returned,5,4,Yes
+ORD-10187,02-03-2025,Abu Dhabi,Marketplace,Fashion,Backpack,4,109.47,0.05,415.99,206.32,Delivered,6,5,No
+ORD-10350,02-03-2025,Dubai,Retail Store,Fashion,Running Shoes,2,231.18,0.1,416.12,247.74,Cancelled,,,No
+ORD-10262,04-03-2025,Abu Dhabi,Online,Electronics,USB-C Hub,2,98.14,0.15,166.84,98.84,Delivered,1,2,No
+ORD-10259,05-03-2025,Sharjah,Online,Grocery,Olive Oil,2,43.86,0.1,78.95,51.15,Processing,,,No
+ORD-10411,05-03-2025,Ajman,Online,Grocery,Olive Oil,5,47.85,0.05,227.29,141.03,Delivered,3,2,No
+ORD-10230,06-03-2025,Ajman,Marketplace,Beauty,Skincare Set,3,125.93,0,377.79,155.25,Delivered,2,4,No
+ORD-10349,07-03-2025,Abu Dhabi,Online,Grocery,Coffee Beans,5,66.44,0,332.2,172.96,Cancelled,,,No
+ORD-10251,07-03-2025,Dubai,Online,Fashion,Cotton T-Shirt,4,53.42,0.1,192.31,84.72,Delivered,1,1,No
+ORD-10392,07-03-2025,Abu Dhabi,Online,Grocery,Olive Oil,3,48.55,0.1,131.08,87.28,Cancelled,,,No
+ORD-10023,08-03-2025,Dubai,Online,Fashion,Running Shoes,4,237.81,0,951.24,547.07,Delivered,3,1,No
+ORD-10253,10-03-2025,Dubai,Online, electronics,Running Shoes,1,262.66,0,262.66,134.33,Processing,,,No
+ORD-10072,11-03-2025,Abu Dhabi,Online,Home & Living,Desk Lamp,4,67.95,0,271.8,124.86,Delivered,6,4,No
+ORD-10052,13-03-2025,Ajman,Online,Fashion,Backpack,4,116.65,0.1,419.94,222.13,Delivered,1,2,No
+ORD-10398,13-03-2025,Dubai,Retail Store,Grocery,Olive Oil,2,49.97,0.05,94.94,56.92,Delivered,2,4,No
+ORD-10102,14-03-2025,Sharjah,Online,Beauty,Hair Dryer,2,155.02,0,310.04,159.88,Delivered,8,2,No
+ORD-10224,15-03-2025,Abu Dhabi,Online,Beauty,Skincare Set,5,116.07,0,580.35,296.46,Delivered,1,5,No
+ORD-10339,15-03-2025,Al Ain,Online,Home & Living,Water Bottle,3,39.78,0.1,107.41,43.04,Delivered,2,4,No
+ORD-10009,15-03-2025,Abu Dhabi,Online,Home & Living,Water Bottle,3,42.81,0.15,109.17,38.93,Delivered,2,4,No
+ORD-10142,20-03-2025,Dubai,Online,Electronics,USB-C Hub,3,97.55,0.15,248.75,142.36,Processing,,,No
+ORD-10363,23-03-2025,Sharjah,Retail Store,Grocery,Coffee Beans,1,61.04,0,61.04,31.43,Delivered,5,4,No
+ORD-10032,24-03-2025,Dubai,Online,Beauty,Skincare Set,3,130.57,0.1,352.54,155.72,Processing,,,No
+ORD-10078,24-03-2025,Al Ain,Online,Electronics,USB-C Hub,1,93.25,0.05,88.59,44.88,Cancelled,,,No
+ORD-10412,25-03-2025,Al Ain,Online,Electronics,USB-C Hub,2,102.02,0.2,163.23,101.88,Delivered,6,2,No
+ORD-10326,26-03-2025,Abu Dhabi,Online,Beauty,Skincare Set,2,130.59,0,261.18,103.11,Delivered,8,5,No
+ORD-10148,27-03-2025,Dubai,Marketplace,Home & Living,Storage Box Set,1,50.35,0,50.35,22.99,Delivered,7,4,No
+ORD-10327,28-03-2025,Sharjah,Online,Fashion,Backpack,4,100.95,0.2,323.04,223.79,Delivered,2,1,No
+ORD-10097,29-03-2025,Abu Dhabi,Online,Fashion,Cotton T-Shirt,1,47.81,0.2,38.25,18.6,Delivered,4,4,No
+ORD-10189,29-03-2025,Abu Dhabi,Online,Electronics,Wireless Headphones,2,166.32,0,332.64,176.97,Delivered,8,3,No
+ORD-10384,29-03-2025,Dubai,Retail Store,Home & Living,Water Bottle,1,40.77,0.1,36.69,13.58,Delivered,3,4,No
+ORD-10119,31-03-2025,Al Ain,Online,Electronics,USB-C Hub,1,88.83,0,88.83,50.48,Delivered,4,5,No
+ORD-10315,31-03-2025,Al Ain,Retail Store,Grocery,Coffee Beans,3,63.09,0.1,170.34,104.93,Cancelled,,,No
+ORD-10346,04-04-2025,Dubai,Online,Electronics,USB-C Hub,5,97.18,0.1,437.31,239.83,Processing,,,No
+ORD-10211,06-04-2025,Abu Dhabi,Marketplace,Home & Living,Storage Box Set,3,51.44,0.05,146.6,69.43,Delivered,8,3,No
+ORD-10380,06-04-2025,Abu Dhabi,Online,Beauty,Face Cleanser,3,42.97,0.15,109.57,49.91,Delivered,2,2,No
+ORD-10209,07-04-2025,Sharjah,Retail Store,Home & Living,Water Bottle,1,41.69,0.05,39.61,12.92,Delivered,4,4,No
+ORD-10206,08-04-2025,Dubai,Online,Electronics,Smart Watch,1,326.82,0,326.82,188.32,Cancelled,,,No
+ORD-10292,08-04-2025,Ajman,Retail Store,Fashion,Cotton T-Shirt,5,48.51,0.1,218.29,106.19,Delivered,3,4,No
+ORD-10216,10-04-2025,Al Ain,Online,Grocery,Olive Oil,4,45.52,0.15,154.77,110.05,Delivered,1,4,No
+ORD-10143,11-04-2025,Al Ain,Online,Beauty,Hair Dryer,5,136.21,0.2,544.84,402.84,Delivered,3,2,No
+ORD-10281,11-04-2025,Sharjah,Marketplace,Home & Living,Water Bottle,3,37.31,0,111.93,42.43,Cancelled,,,No
+ORD-10111,12-04-2025,Sharjah,Online,Grocery,Snack Bundle,1,37.04,0,37.04,16.38,Delivered,8,4,No
+ORD-10413,12-04-2025,Abu Dhabi,Online,Electronics,Wireless Headphones,3,195.68,0,587.04,262.38,Delivered,2,2,No
+ORD-10039,12-04-2025,Al Ain,Marketplace,Grocery,Snack Bundle,2,35.71,0,71.42,31.93,Delivered,3,3,No
+ORD-10152,13-04-2025,Dubai,Retail Store,Grocery,Snack Bundle,5,35.28,0.1,158.76,80.69,Delivered,2,4,No
+ORD-10314,13-04-2025,Abu Dhabi,Retail Store,Fashion,Cotton T-Shirt,4,48.85,0.15,166.09,84.3,Delivered,2,5,No
+ORD-10399,13-04-2025,Ajman,Retail Store,Fashion,Running Shoes,4,239.92,0,959.68,527.34,Returned,1,2,Yes
+ORD-10299,14-04-2025,Dubai,Online,Beauty,Hair Dryer,5,137.1,0.15,582.67,394.67,Delivered,4,2,No
+ORD-10096,16-04-2025,Al Ain,Online,Fashion,Backpack,4,116.46,0.1,419.26,198.41,Processing,,,No
+ORD-10342,17-04-2025,Dubai,Online,Home & Living,Desk Lamp,3,78.63,0.05,224.1,95.6,Delivered,4,1,No
+ORD-10154,18-04-2025,Dubai,Online,Beauty,Skincare Set,1,131.88,0.05,125.29,54.88,Delivered,8,1,No
+ORD-10271,18-04-2025,Sharjah,Marketplace,Home & Living,Water Bottle,4,40.7,0.2,130.24,57.47,Delivered,4,3,No
+ORD-10419,19-04-2025,Dubai,Marketplace,Electronics,USB-C Hub,2,91.54,0,183.08,89.59,Delivered,2,3,No
+ORD-10353,20-04-2025,Sharjah,Retail Store,Home & Living,Water Bottle,4,43.5,0,174,54.22,Processing,,,No
+ORD-10263,20-04-2025,Abu Dhabi,Marketplace,Beauty,Skincare Set,3,115.33,0,345.99,158.42,Returned,3,6,Yes
+ORD-10136,21-04-2025,Dubai,Retail Store,Home & Living,Water Bottle,5,37.28,0,186.4,73.08,Delivered,2,5,No
+ORD-10190,21-04-2025,Dubai,Retail Store,Fashion,Cotton T-Shirt,1,53.82,0.1,48.44,20.44,Cancelled,,,No
+ORD-10307,21-04-2025,Dubai,Online,Grocery,Olive Oil,1,48.53,0,48.53,26.28,Delivered,3,1,No
+ORD-10226,22-04-2025,Abu Dhabi,Retail Store,Electronics,Smart Watch,3,320.15,0.15,816.38,612.97,Delivered,6,5,No
+ORD-10239,23-04-2025,Dubai,Marketplace,Home & Living,Storage Box Set,2,51.17,0.05,97.22,42.96,Processing,,,No
+ORD-10333,24-04-2025,Al Ain,Marketplace,Grocery,Olive Oil,1,47.22,0,47.22,26.24,Delivered,7,5,No
+ORD-10400,24-04-2025,Dubai,Retail Store,Grocery,Coffee Beans,2,63.6,0.1,114.48,71.85,Cancelled,,,No
+ORD-10088,25-04-2025,Dubai,Retail Store,Beauty,Hair Dryer,3,139.81,0,419.43,247.18,Delivered,6,2,No
+ORD-10309,26-04-2025,Sharjah,Marketplace,Fashion,Running Shoes,2,239.86,0,479.72,240.57,Returned,2,1,Yes
+ORD-10368,26-04-2025,Abu Dhabi,Marketplace,Beauty,Hair Dryer,2,138,0.05,262.2,147.62,Delivered,2,2,No
+ORD-10338,26-04-2025,Dubai,Marketplace,Electronics,Wireless Headphones,4,181.76,0,727.04,359.35,Delivered,8,5,No
+ORD-10403,27-04-2025,Dubai,Online,Fashion,Backpack,3,101.41,0.15,258.6,153.03,Cancelled,,,No
+ORD-10321,28-04-2025,Sharjah,Online,Beauty,Face Cleanser,2,45.79,0,91.58,34.46,Processing,,,No
+ORD-10167,28-04-2025,Al Ain,Online,Grocery,Coffee Beans,5,63.72,0,318.6,163.69,Cancelled,,,No
+ORD-10066,29-04-2025,Ajman,Marketplace,Electronics,USB-C Hub,1,91.83,0.05,87.24,47.47,Delivered,5,2,No
+ORD-10077,01-05-2025,Dubai,Retail Store,Home & Living,Water Bottle,4,40.54,0.1,145.94,58.32,Cancelled,,,No
+ORD-10254,01-05-2025,Al Ain,Marketplace,Electronics,Smart Watch,1,288.31,0,288.31,196.98,Cancelled,,,No
+ORD-10294,02-05-2025,Dubai,Online,Grocery,Coffee Beans,5,65.78,0.05,312.45,165.72,Delivered,8,1,No
+ORD-10169,03-05-2025,Abu Dhabi,Retail Store,Fashion,Cotton T-Shirt,1,53.12,0,53.12,19.25,Returned,8,5,Yes
+ORD-10371,03-05-2025,Abu Dhabi,Online,Beauty,Face Cleanser,1,41.41,0.15,35.2,17.45,Delivered,5,1,No
+ORD-10199,04-05-2025,Dubai,Marketplace,Electronics,Wireless Headphones,5,184.56,0,922.8,461.79,Delivered,6,1,No
+ORD-10197,06-05-2025,Al Ain,Online,Electronics,Smart Watch,3,346.99,0.05,988.92,569.41,Delivered,4,3,No
+ORD-10268,07-05-2025,Dubai,Online,Grocery,Coffee Beans,3,63.92,0.2,153.41,102.61,Processing,,,No
+ORD-10139,07-05-2025,Dubai,Online,Fashion,Running Shoes,5,230.58,0,1152.9,688.93,Delivered,1,3,No
+ORD-10044,10-05-2025,Abu Dhabi,Online,Grocery,Coffee Beans,5,67.21,0.1,302.44,177.15,Processing,,,No
+ORD-10053,13-05-2025,Sharjah,Marketplace,Electronics,Smart Watch,1,333.65,0.1,300.28,198.32,Delivered,7,2,No
+ORD-10301,13-05-2025,Abu Dhabi,Retail Store,Grocery,Snack Bundle,5,35.58,0,177.9,82.08,Cancelled,,,No
+ORD-10194,13-05-2025,Dubai,Online,Electronics,Smart Watch,2,331.69,0.1,597.04,354.1,Processing,,,No
+ORD-10063,14-05-2025,Al Ain,Online,Electronics,Smart Watch,4,320.81,0.2,1026.59,751.85,Delivered,1,2,No
+ORD-10201,14-05-2025,Ajman,Marketplace,Home & Living,Storage Box Set,3,60.39,0.2,144.94,66.28,Delivered,6,2,No
+ORD-10393,15-05-2025,Abu Dhabi,Online,Beauty,Face Cleanser,2,40.56,0,81.12,36.55,Delivered,3,5,No
+ORD-10022,16-05-2025,Sharjah,Online,Grocery,Snack Bundle,1,32.33,0.2,25.86,17.95,Cancelled,,,No
+ORD-10332,16-05-2025,Abu Dhabi,Marketplace,Fashion,Cotton T-Shirt,4,45.86,0,183.44,76.73,Delivered,7,2,No
+ORD-10068,16-05-2025,Al Ain,Online,Beauty,Skincare Set,5,109.14,0,545.7,259.08,Processing,,,No
+ORD-10374,17-05-2025,Abu Dhabi,Retail Store,Electronics,Wireless Headphones,4,171.92,0,687.68,355.33,Processing,,,No
+ORD-10379,19-05-2025,Ajman,Online,Home & Living,Desk Lamp,1,78.12,0.05,74.21,33.54,Delivered,5,1,No
+ORD-10188,20-05-2025,Al Ain,Online,Home & Living,Water Bottle,5,43.78,0,218.9,74.51,Processing,,,No
+ORD-10094,22-05-2025,Dubai,Online,Grocery,Coffee Beans,1,64.55,0.1,58.09,33.46,Delivered,7,5,No
+ORD-10027,27-05-2025,Ajman,Marketplace,Electronics,USB-C Hub,4,90.03,0.15,306.1,202.73,Delivered,1,1,No
+ORD-10164,29-05-2025,Al Ain,Retail Store,Fashion,Running Shoes,1,246.86,0.05,234.52,137.64,Returned,4,5,Yes
+ORD-10163,30-05-2025,Dubai,Online,Home & Living,Water Bottle,4,38.18,0,152.72,52.69,Delivered,4,5,No
+ORD-10065,30-05-2025,Abu Dhabi,Online,Electronics,USB-C Hub,4,91.24,0,364.96,188.75,Delivered,4,3,No
+ORD-10373,30-05-2025,Dubai,Retail Store,Grocery,Coffee Beans,3,67.73,0.1,182.87,105.33,Delivered,7,1,No
+ORD-10144,30-05-2025,Dubai,Marketplace,Grocery,Olive Oil,5,51.21,0,256.05,127.56,Delivered,7,3,No
+ORD-10248,01-06-2025,Sharjah,Online,Home & Living,Desk Lamp,2,72.68,0.05,138.09,64.35,Processing,,,No
+ORD-10275,02-06-2025,Dubai,Online,Fashion,Cotton T-Shirt,3,49.46,0,148.38,63.5,Delivered,6,2,No
+ORD-10165,02-06-2025,Dubai,Online,Grocery,Snack Bundle,4,32.07,0.05,121.87,62.73,Processing,,,No
+ORD-10238,07-06-2025,Dubai,Online,Home & Living,Desk Lamp,5,71.56,0.15,304.13,170.08,Delivered,6,3,No
+ORD-10005,08-06-2025,Dubai,Retail Store,Beauty,Face Cleanser,4,45.93,0.15,156.16,70.99,Delivered,3,5,No
+ORD-10091,08-06-2025,Abu Dhabi,Marketplace,Grocery,Snack Bundle,5,35.22,0,176.1,81.58,Delivered,2,1,No
+ORD-10407,08-06-2025,Al Ain,Retail Store,Beauty,Skincare Set,2,115.02,0.05,218.54,115.26,Returned,4,3,Yes
+ORD-10155,08-06-2025,Al Ain,Online,Fashion,Running Shoes,2,218.44,0.1,393.19,280.03,Delivered,4,4,No
+ORD-10354,08-06-2025,Abu Dhabi,Online,Beauty,Skincare Set,3,124.16,0,372.48,158.94,Processing,,,No
+ORD-10082,09-06-2025,Dubai,Retail Store,Home & Living,Water Bottle,5,39.16,0.15,166.43,67.97,Cancelled,,,No
+ORD-10140,09-06-2025,Dubai,Retail Store,Electronics,USB-C Hub,4,97.26,0.05,369.59,177.87,Processing,,,No
+ORD-10121,10-06-2025,Abu Dhabi,Online,Home & Living,Desk Lamp,4,75.76,0.1,272.74,134.73,Delivered,6,5,No
+ORD-10004,10-06-2025,Ajman,Online,Beauty,Face Cleanser,4,41.48,0,165.92,75.8,Cancelled,,,No
+ORD-10298,10-06-2025,Dubai,Online,Home & Living,Water Bottle,3,37.81,0,113.43,44.29,Delivered,5,2,No
+ORD-10285,11-06-2025,Abu Dhabi,Online,Beauty,Skincare Set,3,130.8,0.1,353.16,159.33,Delivered,6,2,No
+ORD-10030,11-06-2025,Abu Dhabi,Online,Electronics,Smart Watch,1,344.59,0,344.59,196.37,Processing,,,No
+ORD-10047,12-06-2025,Al Ain,Online,Grocery,Snack Bundle,4,33.87,0,135.48,64.64,Delivered,1,3,No
+ORD-10186,12-06-2025,Abu Dhabi,Marketplace,Electronics,USB-C Hub,3,90.17,0.1,243.46,137.8,Delivered,4,4,No
+ORD-10219,13-06-2025,Abu Dhabi,Online,Electronics,Smart Watch,5,297.06,0.05,1411.03,897.21,Delivered,6,3,No
+ORD-10267,13-06-2025,Dubai,Online,Fashion,Running Shoes,4,258.84,0.1,931.82,545.44,Delivered,2,5,No
+ORD-10020,14-06-2025,Dubai,Online,Home & Living,Water Bottle,4,38.16,0.1,137.38,54.78,Returned,8,1,Yes
+ORD-10214,14-06-2025,Dubai,Marketplace,Electronics,Smart Watch,4,318.24,0.15,1082.02,761.2,Cancelled,,,No
+ORD-10031,14-06-2025,Abu Dhabi,Marketplace,Electronics,Smart Watch,5,338.18,0.05,1606.36,970.73,Returned,5,3,Yes
+ORD-10205,16-06-2025,Abu Dhabi,Online,Beauty,Skincare Set,1,112.25,0,112.25,56.37,Returned,3,5,Yes
+ORD-10222,16-06-2025,Abu Dhabi,Marketplace,Fashion,Cotton T-Shirt,1,48.45,0.05,46.03,19.75,Delivered,7,5,No
+ORD-10335,17-06-2025,Dubai,Online,Grocery,Coffee Beans,4,59.81,0.2,191.39,138.01,Delivered,3,5,No
+ORD-10114,17-06-2025,Dubai,Retail Store,Home & Living,Water Bottle,2,42.57,0.15,72.37,27.63,Cancelled,,,No
+ORD-10176,18-06-2025,Dubai,Online,Electronics,Wireless Headphones,1,170.09,0.05,161.59,100.27,Returned,1,1,Yes
+ORD-10073,18-06-2025,Abu Dhabi,Retail Store,Fashion,Running Shoes,4,258.72,0,1034.88,527.81,Delivered,2,1,No
+ORD-10231,19-06-2025,Dubai,Online,Fashion,Backpack,4,106.51,0.2,340.83,196.78,Delivered,5,3,No
+ORD-10277,20-06-2025,Al Ain,Online,Grocery,Olive Oil,2,50.91,0.1,91.64,50.64,Returned,5,1,Yes
+ORD-10054,20-06-2025,Sharjah,Online,Home & Living,Desk Lamp,1,67.57,0.15,57.43,32.07,Processing,,,No
+ORD-10124,21-06-2025,Abu Dhabi,Online,Electronics,Smart Watch,5,318.47,0.05,1512.73,1016.2,Returned,4,3,Yes
+ORD-10070,21-06-2025,Abu Dhabi,Marketplace,Grocery,Coffee Beans,3,68.55,0,205.65,107.8,Processing,,,No
+ORD-10367,21-06-2025,Abu Dhabi,Retail Store,Grocery,Coffee Beans,4,60.31,0.1,217.12,142.7,Returned,6,2,Yes
+ORD-10290,22-06-2025,Al Ain,Online,Fashion,Backpack,4,101.74,0.1,366.26,201.19,Returned,3,3,Yes
+ORD-10109,22-06-2025,Ajman,Online,Grocery,Coffee Beans,5,58.6,0,293,165.54,Delivered,7,4,No
+ORD-10076,23-06-2025,Dubai,Retail Store,Electronics,USB-C Hub,1,102.1,0,102.1,46.11,Processing,,,No
+ORD-10276,26-06-2025,Abu Dhabi,Online,Electronics,Wireless Headphones,2,195.99,0.05,372.38,190.16,Delivered,2,2,No
+ORD-10282,27-06-2025,Sharjah,Retail Store,Electronics,Smart Watch,5,341.06,0.15,1449.5,969.96,Returned,5,4,Yes
+ORD-10235,29-06-2025,Al Ain,Online,Grocery,Snack Bundle,0,36.87,0.05,175.13,89.17,Cancelled,,,No
+ORD-10284,29-06-2025,Abu Dhabi,Online,Home & Living,Storage Box Set,5,53.63,0.05,254.74,118.27,Delivered,8,2,No
+ORD-10185,30-06-2025,Al Ain,Retail Store,Electronics,USB-C Hub,2,86.47,0.15,147,99.84,Delivered,3,4,No
+ORD-10203,30-06-2025,Sharjah,Online,Fashion,Cotton T-Shirt,2,50.47,0,100.94,40.39,Delivered,5,4,No
+ORD-10252,30-06-2025,Abu Dhabi,Online,Fashion,Cotton T-Shirt,3,48.39,0,145.17,61.96,Delivered,4,5,No
+ORD-10055,01-07-2025,Ajman,Online,Home & Living,Water Bottle,5,37.9,0.1,170.55,73.95,Delivered,3,4,No
+ORD-10183,01-07-2025,Dubai,Retail Store,Home & Living,Storage Box Set,5,52.81,0.15,224.44,114.76,Delivered,3,5,No
+ORD-10405,02-07-2025,Al Ain,Retail Store,Fashion,Running Shoes,4,244.42,0,977.68,491.25,Delivered,3,3,No
+ORD-10406,02-07-2025,Abu Dhabi,Marketplace,Home & Living,Water Bottle,1,39.84,0.05,37.85,15.11,Delivered,4,5,No
+ORD-10180,02-07-2025,Al Ain,Online,Beauty,Skincare Set,4,117.48,0.1,422.93,230.1,Delivered,7,4,No
+ORD-10021,02-07-2025,Ajman,Online,Grocery,Snack Bundle,3,36.61,0.05,104.34,51.43,Returned,8,1,Yes
+ORD-10420,04-07-2025,Dubai,Online,Electronics,Wireless Headphones,5,186.46,0.15,792.46,455.28,Returned,3,1,Yes
+ORD-10159,04-07-2025,Dubai,Retail Store,Grocery,Olive Oil,2,52.38,0,104.76,51.01,Delivered,2,1,No
+ORD-10115,04-07-2025,Abu Dhabi,Retail Store,Grocery,Coffee Beans,3,60.37,0.15,153.94,108.19,Returned,1,2,Yes
+ORD-10017,07-07-2025,Abu Dhabi,Retail Store,Fashion,Backpack,4,119.81,0.1,431.32,199.79,Cancelled,,,No
+ORD-10344,07-07-2025,Dubai,Marketplace,Fashion,Cotton T-Shirt,4,46.84,0,187.36,81.73,Processing,,,No
+ORD-10366,09-07-2025,Dubai,Online,Fashion,Cotton T-Shirt,4,48.55,0.1,174.78,73.77,Delivered,7,2,No
+ORD-10296,10-07-2025,Al Ain,Retail Store,Fashion,Running Shoes,5,257.42,0.1,1158.39,628.27,Cancelled,,,No
+ORD-10011,12-07-2025,Sharjah,Marketplace,Electronics,USB-C Hub,5,104.11,0.15,442.47,251.6,Processing,,,No
+ORD-10351,14-07-2025,Abu Dhabi,Online,Grocery,Snack Bundle,5,37.45,0.15,159.16,91.32,Delivered,4,2,No
+ORD-10289,17-07-2025,Abu Dhabi,Online,Grocery,Snack Bundle,1,31.53,0,31.53,16.85,Returned,3,1,Yes
+ORD-10295,18-07-2025,Abu Dhabi,Marketplace,Beauty,Face Cleanser,5,45.19,0.1,203.35,88.97,Delivered,4,2,No
+ORD-10305,18-07-2025,Abu Dhabi,Retail Store,Home & Living,Water Bottle,1,37.81,0.15,32.14,14.01,Delivered,8,3,No
+ORD-10229,19-07-2025,Al Ain,Online,Fashion,Backpack,3,117.76,0.05,335.62,157.8,Delivered,2,4,No
+ORD-10057,19-07-2025,Sharjah,Retail Store,Grocery,Snack Bundle,2,32.46,0.05,61.67,34.41,Delivered,8,1,No
+ORD-10029,19-07-2025,Sharjah,Marketplace,Fashion,Running Shoes,5,251.26,0,1256.3,618.08,Delivered,3,4,No
+ORD-10331,19-07-2025,Abu Dhabi,Retail Store,Fashion,Running Shoes,4,233.53,0.1,840.71,536.41,Delivered,5,4,No
+ORD-10034,22-07-2025,Abu Dhabi,Online,Home & Living,Storage Box Set,1,55.97,0,55.97,21.36,Delivered,4,3,No
+ORD-10330,22-07-2025,Sharjah,Online,Electronics,USB-C Hub,2,85.64,0.2,137.02,90.79,Processing,,,No
+ORD-10132,22-07-2025,Abu Dhabi,Retail Store,Beauty,Hair Dryer,2,146.36,0,292.72,145.88,Delivered,8,2,No
+ORD-10308,22-07-2025,Sharjah,Online,Fashion,Backpack,1,117.58,0,117.58,49.3,Processing,,,No
+ORD-10113,22-07-2025,Dubai,Online,Beauty,Skincare Set,1,131.44,0.1,118.3,53.4,Delivered,4,2,No
+ORD-10158,23-07-2025,Abu Dhabi,Retail Store,Fashion,Backpack,3,115.39,0,346.17,146.79,Delivered,1,4,No
+ORD-10134,24-07-2025,Abu Dhabi,Retail Store,Grocery,Coffee Beans,5,66.03,0.15,280.63,156.53,Delivered,8,3,No
+ORD-10131,26-07-2025,Dubai,Online,Fashion,Backpack,5,107.61,0.15,457.34,252.9,Delivered,4,2,No
+ORD-10079,26-07-2025,Al Ain,Online,Fashion,Backpack,1,102.93,0.2,82.34,49.5,Returned,7,2,Yes
+ORD-10126,26-07-2025,Dubai,Online,Home & Living,Water Bottle,2,38.86,0,77.72,26.95,Delivered,7,5,No
+ORD-10116,27-07-2025,Sharjah,Marketplace,Electronics,Wireless Headphones,2,189.89,0.05,360.79,175.86,Delivered,3,1,No
+ORD-10288,28-07-2025,Al Ain,Online,Beauty,Hair Dryer,1,160.77,0.1,144.69,73.29,Processing,,,No
+ORD-10129,29-07-2025,Dubai,Retail Store,Electronics,USB-C Hub,5,94.88,0.05,450.68,258.08,Returned,4,3,Yes
+ORD-10228,31-07-2025,Abu Dhabi,Online,Home & Living,Desk Lamp,3,70.22,0.1,189.59,98.69,Delivered,4,2,No
+ORD-10266,01-08-2025,Abu Dhabi,Retail Store,Electronics,Smart Watch,2,304.49,0.2,487.18,361.12,Processing,,,No
+ORD-10242,02-08-2025,Abu Dhabi,Marketplace,Grocery,Snack Bundle,1,33.31,0.05,31.64,17.44,Delivered,3,5,No
+ORD-10260,03-08-2025,Abu Dhabi,Online,Fashion,Running Shoes,1,256.11,0.15,217.69,121.45,Delivered,5,5,No
+ORD-10270,04-08-2025,Ajman,Retail Store,Fashion,Cotton T-Shirt,1,51.32,0.1,46.19,20.82,Delivered,8,3,No
+ORD-10394,07-08-2025,Ajman,Retail Store,Grocery,Snack Bundle,1,36.8,0.1,33.12,16.53,Delivered,7,3,No
+ORD-10137,09-08-2025,Abu Dhabi,Marketplace,Grocery,Olive Oil,5,48.91,0,244.55,143.17,Processing,,,No
+ORD-10193,10-08-2025,Sharjah,Retail Store,Fashion,Backpack,5,111.51,0,557.55,251.26,Delivered,5,1,No
+ORD-10269,12-08-2025,Sharjah,Online,Home & Living,Water Bottle,3,43.45,0,130.35,39.47,Delivered,2,1,No
+ORD-10323,13-08-2025,Dubai,Online,Fashion,Running Shoes,3,241.21,0.05,687.45,378.63,Delivered,1,5,No
+ORD-10343,15-08-2025,Abu Dhabi,Online,Home & Living,Water Bottle,5,39.02,0.1,175.59,73.25,Delivered,1,1,No
+ORD-10240,17-08-2025,Abu Dhabi,Retail Store,Home & Living,Storage Box Set,4,60.14,0.1,216.5,92.76,Returned,5,1,Yes
+ORD-10245,18-08-2025,Sharjah,Online,Home & Living,Water Bottle,3,37.52,0.05,106.93,44.68,Returned,3,3,Yes
+ORD-10085,18-08-2025,Dubai,Marketplace,Electronics,USB-C Hub,1,94.4,0.05,89.68,46.15,Delivered,1,2,No
+ORD-10040,19-08-2025,Abu Dhabi,Online,Home & Living,Water Bottle,4,39.1,0.1,140.76,57.26,Processing,,,No
+ORD-10192,19-08-2025,Sharjah,Online,Grocery,Coffee Beans,4,69.63,0.1,250.67,126.81,Delivered,7,2,No
+ORD-10130,20-08-2025,Dubai,Online,Home & Living,Desk Lamp,2,80.49,0,160.98,64.91,Delivered,4,3,No
+ORD-10341,20-08-2025,Sharjah,Marketplace,Fashion,Running Shoes,2,252.58,0.15,429.39,268.24,Delivered,3,2,No
+ORD-10099,21-08-2025,Dubai,Marketplace,Grocery,Snack Bundle,2,36.25,0,72.5,35.88,Processing,,,No
+ORD-10026,24-08-2025,Abu Dhabi,Online,Electronics,USB-C Hub,5,102.8,0,514,246,Cancelled,,,No
+ORD-10244,26-08-2025,Al Ain,Marketplace,Grocery,Snack Bundle,2,32.11,0.15,54.59,31.9,Delivered,3,2,No
+ORD-10123,27-08-2025,Abu Dhabi,Marketplace,Beauty,Skincare Set,2,124.24,0.1,223.63,102.36,Delivered,1,4,No
+ORD-10003,27-08-2025,Dubai,Marketplace,Beauty,Skincare Set,4,111.37,0,445.48,217.15,Delivered,8,4,No
+ORD-10316,29-08-2025,Sharjah,Online,Electronics,USB-C Hub,3,90.15,0,270.45,140.06,Processing,,,No
+ORD-10372,30-08-2025,Sharjah,Marketplace,Electronics,USB-C Hub,1,89.83,0,89.83,45.61,Delivered,3,1,No
+ORD-10156,30-08-2025,Ajman,Retail Store,Grocery,Coffee Beans,4,64.07,0.1,230.65,139,Processing,,,No
+ORD-10255,30-08-2025,Dubai,Marketplace,Beauty,Skincare Set,3,115.79,0.05,330,165.57,Delivered,4,4,No
+ORD-10108,31-08-2025,Dubai,Online,Beauty,Hair Dryer,4,143.68,0.1,517.25,299.91,Delivered,3,2,No
+ORD-10162,31-08-2025,Dubai,Online,Beauty,Face Cleanser,3,43.75,0,131.25,51.2,Cancelled,,,No
+ORD-10237,31-08-2025,Dubai,Online,Fashion,Backpack,5,105.07,0,525.35,256.43,Cancelled,,,No
+ORD-10311,01-09-2025,Sharjah,Marketplace,Grocery,Snack Bundle,1,32.01,0,32.01,18.21,Delivered,4,5,No
+ORD-10122,01-09-2025,Dubai,Online,Beauty,Hair Dryer,4,157.74,0.05,599.41,328.3,Delivered,7,2,No
+ORD-10283,02-09-2025,Dubai,Retail Store,Electronics,Wireless Headphones,5,190.13,0.1,855.59,465.67,Delivered,1,1,No
+ORD-10080,02-09-2025,Sharjah,Marketplace,Fashion,Backpack,4,110.37,0.05,419.41,216.04,Returned,8,3,Yes
+ORD-10312,03-09-2025,Dubai,Retail Store,Electronics,USB-C Hub,2,86.43,0.15,146.93,99.9,Cancelled,,,No
+ORD-10049,05-09-2025,Abu Dhabi,Retail Store,Fashion,Backpack,5,120.19,0.1,540.86,271.73,Delivered,7,5,No
+ORD-10416,05-09-2025,Dubai,Online,Fashion,Cotton T-Shirt,5,46.06,0,230.3,107.44,Processing,,,No
+ORD-10257,05-09-2025,Al Ain,Online,Grocery,Olive Oil,1,47.07,0,47.07,25.19,Delivered,3,1,No
+ORD-10191,07-09-2025,Abu Dhabi,Online,Beauty,Face Cleanser,2,42.03,0.05,79.86,37.71,Cancelled,,,No
+ORD-10060,07-09-2025,Sharjah,Online,Home & Living,Desk Lamp,5,78.63,0.05,373.49,162.32,Returned,7,2,Yes
+ORD-10098,07-09-2025,Sharjah,Retail Store,Home & Living,Storage Box Set,1,57.49,0,57.49,21.86,Returned,1,3,Yes
+ORD-10075,08-09-2025,Dubai,Retail Store,Grocery,Snack Bundle,3,33.41,0.1,90.21,47.33,Delivered,5,5,No
+ORD-10008,12-09-2025,Dubai,Retail Store,Electronics,Wireless Headphones,3,168.29,0,504.87,264.63,Delivered,7,2,No
+ORD-10184,12-09-2025,Abu Dhabi,Online,Electronics,USB-C Hub,3,96.21,0.1,259.77,143.9,Delivered,7,5,No
+ORD-10175,12-09-2025,Abu Dhabi,Online,Electronics,Smart Watch,3,338.95,0,1016.85,607.17,Delivered,7,1,No
+ORD-10204,13-09-2025,Dubai,Online,Home & Living,Water Bottle,3,37.51,0,112.53,44.36,Delivered,1,4,No
+ORD-10086,13-09-2025,Al Ain,Marketplace,Beauty,Hair Dryer,5,143.84,0,719.2,406.52,Delivered,1,5,No
+ORD-10043,13-09-2025,Dubai,Online,Grocery,Olive Oil,1,46,0,46,26.96,Returned,5,2,Yes
+ORD-10223,14-09-2025,Al Ain,Marketplace,Electronics,USB-C Hub,4,90.91,0.1,327.28,200.83,Delivered,6,4,No
+ORD-10110,15-09-2025,Dubai,Retail Store,Electronics,USB-C Hub,1,89.16,0.2,71.33,45.34,Delivered,8,5,No
+ORD-10212,19-09-2025,Al Ain,Marketplace,Grocery,Coffee Beans,3,68.42,0,205.26,109.67,Returned,2,3,Yes
+ORD-10015,19-09-2025,Sharjah,Marketplace,Grocery,Snack Bundle,3,33.52,0.1,90.5,52.92,Delivered,2,5,No
+ORD-10177,19-09-2025,Abu Dhabi,Online,Fashion,Backpack,4,119.18,0,476.72,219.68,Delivered,7,5,No
+ORD-10395,20-09-2025,Abu Dhabi,Marketplace,Electronics,Wireless Headphones,1,190.16,0.2,152.13,101.65,Delivered,8,2,No
+ORD-10236,20-09-2025,Sharjah,Marketplace,Grocery,Coffee Beans,3,67.03,0,,94.4,Cancelled,,,No
+ORD-10174,21-09-2025,Abu Dhabi,Online,Home & Living,Water Bottle,2,41.84,0,83.68,29.14,Returned,2,2,Yes
+ORD-10225,21-09-2025,Al Ain,Online,Home & Living,Desk Lamp,3,74.62,0.2,179.09,90.33,Delivered,1,4,No
+ORD-10318,23-09-2025,Al Ain,Marketplace,Beauty,Hair Dryer,1,155.37,0,155.37,72.43,Returned,8,4,Yes
+ORD-10317,24-09-2025,Dubai,Online,Electronics,Wireless Headphones,1,186.97,0.15,158.92,88.01,Delivered,1,4,No
+ORD-10013,26-09-2025,Dubai,Online,Electronics,Smart Watch,3,302.88,0.05,863.21,557.92,Delivered,3,1,No
+ORD-10377,26-09-2025,Dubai,Online,Home & Living,Water Bottle,5,36.38,0.1,163.71,65.09,Delivered,1,1,No
+ORD-10215,26-09-2025,Sharjah,Online,Fashion,Running Shoes,2,226.54,0,453.08,258.5,Processing,,,No
+ORD-10062,29-09-2025,Abu Dhabi,Retail Store,Grocery,Snack Bundle,3,37.82,0.15,96.44,53.35,Processing,,,No
+ORD-10059,29-09-2025,Dubai,Marketplace,Fashion,Cotton T-Shirt,2,54.59,0.05,103.72,41.61,Delivered,5,2,No
+ORD-10391,30-09-2025,Dubai,Online,Grocery,Coffee Beans,5,67.07,0,335.35,167.35,Delivered,2,5,No
+ORD-10378,30-09-2025,Sharjah,Online,Grocery,Olive Oil,3,46,0.1,124.2,75.35,Delivered,1,1,No
+ORD-10360,01-10-2025,Abu Dhabi,Retail Store,Fashion,Cotton T-Shirt,1,45.96,0.1,41.36,19,Processing,,,No
+ORD-10042,04-10-2025,Dubai,Online,Beauty,Skincare Set,5,126.13,0,630.65,272.09,Delivered,3,1,No
+ORD-10234,04-10-2025,Dubai,Marketplace,Fashion,Running Shoes,3,240.2,0.15,612.51,391.99,Returned,1,4,Yes
+ORD-10247,04-10-2025,Abu Dhabi,Online,Home & Living,Water Bottle,2,38.37,0.05,72.9,26.03,Delivered,3,1,No
+ORD-10051,05-10-2025,Dubai,Marketplace,Home & Living,Desk Lamp,1,79.16,0,79.16,31.95,Returned,8,2,Yes
+ORD-10014,05-10-2025,Dubai,Marketplace,Home & Living,Water Bottle,4,39.85,0.15,135.49,54.46,Returned,4,4,Yes
+ORD-10207,06-10-2025,Abu Dhabi,Online,Grocery,Snack Bundle,5,32.75,0,163.75,90.49,Delivered,5,5,No
+ORD-10128,07-10-2025,Al Ain,Retail Store,Beauty,Face Cleanser,1,44.11,0,44.11,17.49,Returned,8,5,Yes
+ORD-10320,08-10-2025,Ajman,Online,Fashion,Cotton T-Shirt,5,48.72,0,243.6,92.73,Processing,,,No
+ORD-10089,08-10-2025,Abu Dhabi,Marketplace,Home & Living,Water Bottle,3,42.18,0.1,113.89,40.03,Processing,,,No
+ORD-10370,09-10-2025,Dubai,Online,Home & Living,Desk Lamp,2,74.59,0.15,126.8,68.83,Cancelled,,,No
+ORD-10173,09-10-2025,Al Ain,Online,Electronics,Smart Watch,3,343.16,0.05,978.01,582.97,Cancelled,,,No
+ORD-10002,10-10-2025,Dubai,Marketplace,Home & Living,Water Bottle,5,41.3,0.05,196.17,75.1,Delivered,4,1,No
+ORD-10402,11-10-2025,Dubai,Online,Fashion,Cotton T-Shirt,1,54.19,0.2,43.35,20.82,Returned,1,3,Yes
+ORD-10210,12-10-2025,Abu Dhabi,Online,Grocery,Olive Oil,2,47.76,0,95.52,54.89,Processing,,,No
+ORD-10050,12-10-2025,Sharjah,Retail Store,Beauty,Hair Dryer,5,164.54,0.2,658.16,376.79,Processing,,,No
+ORD-10112,12-10-2025,Sharjah,Marketplace,Electronics,USB-C Hub,1,95.01,0.1,85.51,49.43,Delivered,1,5,No
+ORD-10107,12-10-2025,Sharjah,Marketplace,Home & Living,Storage Box Set,5,58.78,0.15,249.81,118.42,Delivered,6,1,No
+ORD-10025,13-10-2025,Abu Dhabi,Online,Electronics,Smart Watch,5,329.61,0.1,1483.25,887.75,Processing,,,No
+ORD-10278,13-10-2025,Ajman,Retail Store,Grocery,Coffee Beans,5,65.68,0.05,311.98,162.16,Returned,2,1,Yes
+ORD-10016,14-10-2025,Abu Dhabi,Marketplace,Fashion,Running Shoes,4,220.06,0.1,792.22,556.27,Delivered,2,5,No
+ORD-10160,14-10-2025,Abu Dhabi,Online,Fashion,Cotton T-Shirt,1,48.58,0,48.58,19.93,Processing,,,No
+ORD-10249,15-10-2025,Dubai,Retail Store,Fashion,Running Shoes,5,259.67,0.05,1233.43,680.54,Delivered,1,3,No
+ORD-10213,15-10-2025,Abu Dhabi,Retail Store,Electronics,Wireless Headphones,5,184.13,0.1,828.59,468.71,Processing,,,No
+ORD-10106,15-10-2025,Dubai,Retail Store,Beauty,Hair Dryer,1,144.67,0.15,122.97,78.56,Returned,7,2,Yes
+ORD-10261,17-10-2025,Al Ain,Online,Home & Living,Storage Box Set,3,58.25,0.05,166.01,65.88,Delivered,5,3,No
+ORD-10071,18-10-2025,Ajman,Retail Store,Beauty,Face Cleanser,4,43.75,0.2,140,75.61,Delivered,3,2,No
+ORD-10105,18-10-2025,Dubai,Marketplace,Fashion,Running Shoes,2,235.18,0.2,376.29,267.71,Delivered,1,5,No
+ORD-10135,18-10-2025,Ajman,Online,Electronics,Smart Watch,4,319.77,0.15,1087.22,755.84,Delivered,1,5,No
+ORD-10103,21-10-2025,Abu Dhabi,Online,Electronics,Wireless Headphones,4,170.88,0.15,580.99,390.21,Delivered,2,2,No
+ORD-10092,21-10-2025,Dubai,Online,Fashion,Cotton T-Shirt,2,50.3,0.05,95.57,40.23,Delivered,3,1,No
+ORD-10291,22-10-2025,Abu Dhabi,Online,Grocery,Snack Bundle,5,36.17,0.05,171.81,84.41,Processing,,,No
+ORD-10227,23-10-2025,Abu Dhabi,Online,Beauty,Skincare Set,2,117.36,0.15,199.51,110.54,Returned,8,1,Yes
+ORD-10336,23-10-2025,Al Ain,Retail Store,Beauty,Skincare Set,5,123.62,0.05,587.2,258.64,Delivered,4,5,No
+ORD-10166,25-10-2025,Ajman,Marketplace,Beauty,Hair Dryer,4,138.26,0.15,470.08,298.28,Delivered,7,5,No
+ORD-10149,27-10-2025,Al Ain,Marketplace,Electronics,Wireless Headphones,1,197.13,0,197.13,90.72,Delivered,5,1,No
+ORD-10028,28-10-2025,Dubai,Retail Store,Fashion,Cotton T-Shirt,5,47.02,0,235.1,94,Cancelled,,,No
+ORD-10302,29-10-2025,Al Ain,Marketplace,Home & Living,Water Bottle,3,39.05,0.15,99.58,44.52,Delivered,2,1,No
+ORD-10334,30-10-2025,Abu Dhabi,Online,Fashion,Running Shoes,1,240.86,0.15,204.73,126.6,Delivered,3,2,No
+ORD-10038,30-10-2025,Sharjah,Online,Electronics,USB-C Hub,1,88.79,0,88.79,46.57,Delivered,4,5,No
+ORD-10101,31-10-2025,Sharjah,Online,Home & Living,Water Bottle,3,40.07,0.1,108.19,44.74,Delivered,4,4,No
+ORD-10388,31-10-2025,Sharjah,Online,Fashion,Running Shoes,5,221.29,0,1106.45,669.96,Returned,5,5,Yes
+ORD-10084,31-10-2025,Sharjah,Marketplace,Fashion,Running Shoes,1,227.69,0.2,182.15,121.66,Delivered,3,2,No
+ORD-10090,31-10-2025,Dubai,Online,Electronics,USB-C Hub,2,88.91,0.15,151.15,94.67,Delivered,8,4,No
+ORD-10019,03-11-2025,Dubai,Marketplace,Fashion,Running Shoes,5,221.62,0,1108.1,607.12,Delivered,6,2,No
+ORD-10093,04-11-2025,Abu Dhabi,Online,Grocery,Coffee Beans,3,60.63,0.2,145.51,102.89,Returned,2,2,Yes
+ORD-10361,05-11-2025,Al Ain,Online,Grocery,Snack Bundle,4,38.39,0.1,138.2,69.94,Delivered,1,4,No
+ORD-10297,07-11-2025,Sharjah,Online,Fashion,Running Shoes,4,263.67,0.15,896.48,513.36,Delivered,7,5,No
+ORD-10146,08-11-2025,Ajman,Marketplace,Electronics,Wireless Headphones,4,191.88,0.1,690.77,408.93,Returned,6,1,Yes
+ORD-10125,09-11-2025,Abu Dhabi,Online,Electronics,Wireless Headphones,4,165.57,0,662.28,362.18,Delivered,4,4,No
+ORD-10151,09-11-2025,Abu Dhabi,Online,Electronics,Smart Watch,5,343.3,0.1,1544.85,1018.22,Delivered,3,3,No
+ORD-10232,09-11-2025,Abu Dhabi,Online,Electronics,Smart Watch,1,290.53,0,290.53,178.09,Returned,7,1,Yes
+ORD-10037,10-11-2025,Abu Dhabi,Online,Beauty,Face Cleanser,3,43.33,0.1,116.99,56.91,Delivered,4,5,No
+ORD-10006,10-11-2025,Abu Dhabi,Online,Beauty,Face Cleanser,3,47.21,0,141.63,56.74,Delivered,4,3,No
+ORD-10396,16-11-2025,Dubai,Online,Fashion,Backpack,2,115.53,0,231.06,108.88,Delivered,4,2,No
+ORD-10375,20-11-2025,Dubai,Retail Store,Fashion,Running Shoes,3,236.8,0,710.4,380.81,Processing,,,No
+ORD-10035,21-11-2025,Dubai,Marketplace,Home & Living,Desk Lamp,3,78.03,0.1,210.68,98.27,Processing,,,No
+ORD-10389,22-11-2025,Dubai,Online,Beauty,Hair Dryer,5,159.38,0.15,677.37,390.99,Delivered,3,4,No
+ORD-10048,22-11-2025,Al Ain,Retail Store,Fashion,Running Shoes,3,249.75,0,749.25,398.35,Delivered,8,3,No
+ORD-10358,22-11-2025,Dubai,Online,Fashion,Cotton T-Shirt,1,45.01,0,45.01,20.32,Returned,4,1,Yes
+ORD-10362,22-11-2025,Abu Dhabi,Online,Beauty,Skincare Set,4,119.8,0,479.2,208.52,Returned,8,4,Yes
+ORD-10364,23-11-2025,Al Ain,Marketplace,Beauty,Hair Dryer,3,162.95,0,488.85,243.79,Delivered,6,4,No
+ORD-10095,24-11-2025,Abu Dhabi,Online,Grocery,Olive Oil,4,44.67,0.05,169.75,115.27,Processing,,,No
+ORD-10304,24-11-2025,Sharjah,Marketplace,Fashion,Backpack,1,104.06,0.15,88.45,49.26,Delivered,1,2,No
+ORD-10179,25-11-2025,Dubai,Online,Beauty,Skincare Set,5,125.87,0.05,597.88,289.1,Delivered,6,5,No
+ORD-10220,26-11-2025,Dubai,Online,Beauty,Skincare Set,4,114.71,0.05,435.9,203.53,Delivered,3,4,No
+ORD-10067,27-11-2025,Al Ain,Online,Home & Living,Storage Box Set,2,57.02,0.05,108.34,42.09,Cancelled,,,No
+ORD-10345,27-11-2025,Al Ain,Online,Fashion,Backpack,3,120.46,0.1,325.24,155.03,Delivered,6,2,No
+ORD-10202,28-11-2025,Al Ain,Marketplace,Beauty,Skincare Set,4,118.56,0,474.24,237.09,Cancelled,,,No
+ORD-10324,01-12-2025,Abu Dhabi,Online,Beauty,Hair Dryer,2,153.64,0,307.28,154.95,Returned,8,1,Yes
+ORD-10153,01-12-2025,Abu Dhabi,Retail Store,Beauty,Face Cleanser,2,42.02,0.1,75.64,38.52,Cancelled,,,No
+ORD-10061,03-12-2025,Ajman,Online,Home & Living,Desk Lamp,1,71.75,0.15,60.99,32.31,Delivered,7,5,No
+ORD-10264,04-12-2025,Abu Dhabi,Online,Electronics,Smart Watch,3,303.2,0.15,773.16,538.13,Processing,,,No
+ORD-10024,05-12-2025,Dubai,Marketplace,Grocery,Coffee Beans,4,71.46,0,285.84,144.25,Cancelled,,,No
+ORD-10382,08-12-2025,Dubai,Online,Beauty,Face Cleanser,3,45.81,0.1,123.69,56.37,Processing,,,No
+ORD-10409,08-12-2025,Dubai,Online,Grocery,Coffee Beans,2,60.33,0.1,108.59,65.9,Returned,4,1,Yes
+ORD-10348,08-12-2025,Ajman,Retail Store,Electronics,Smart Watch,1,289.04,0.05,274.59,204.11,Cancelled,,,No
+ORD-10286,09-12-2025,Dubai,Online,Electronics,Smart Watch,5,335.79,0.1,1511.06,952.52,Processing,,,No
+ORD-10319,09-12-2025,Dubai,Marketplace,Beauty,Skincare Set,2,125.67,0.15,213.64,105.11,Returned,4,4,Yes
+ORD-10181,09-12-2025,Al Ain,Marketplace,Fashion,Running Shoes,3,254.17,0,762.51,418.74,Delivered,6,2,No
+ORD-10081,10-12-2025,Sharjah,Online,Electronics,USB-C Hub,5,100.66,0.15,427.8,224.63,Delivered,2,2,No
+ORD-10383,12-12-2025,Dubai,Retail Store,Electronics,USB-C Hub,1,94.91,0,94.91,46.9,Delivered,5,1,No
+ORD-10340,14-12-2025,Dubai,Online,Fashion,Cotton T-Shirt,3,45.84,0.1,123.77,62.63,Delivered,3,1,No
+ORD-10293,15-12-2025,Al Ain,Marketplace,Home & Living,Desk Lamp,3,80.41,0,241.23,100.96,Returned,8,2,Yes
+ORD-10274,16-12-2025,Abu Dhabi,Retail Store,Beauty,Skincare Set,5,110.17,0.1,495.77,279.06,Returned,8,5,Yes
+ORD-10195,17-12-2025,Dubai,Marketplace,Electronics,USB-C Hub,2,99.62,0.05,189.28,91.96,Cancelled,,,No
+ORD-10337,18-12-2025,Abu Dhabi,Retail Store,Fashion,Cotton T-Shirt,4,53.75,0.1,193.5,81.45,Cancelled,,,No
+ORD-10200,18-12-2025,Abu Dhabi,Online,Grocery,Coffee Beans,5,69.55,0.1,312.98,183.57,Delivered,3,2,No
+ORD-10417,20-12-2025,Abu Dhabi,Online,Fashion,Running Shoes,1,226.4,0.15,192.44,136.33,Delivered,5,1,No
+ORD-10064,20-12-2025,Abu Dhabi,Online,Home & Living,Desk Lamp,3,75.24,0.05,214.43,93.12,Delivered,6,2,No
+ORD-10208,20-12-2025,Dubai,Online,Fashion,Backpack,1,109.87,0.2,87.9,50.34,Processing,,,No
+ORD-10355,20-12-2025,Abu Dhabi,Retail Store,Home & Living,Water Bottle,2,37.52,0.05,71.29,26.62,Delivered,5,4,No
+ORD-10404,21-12-2025,Dubai,Online,Electronics,Smart Watch,2,291.12,0.05,553.13,350.6,Cancelled,,,No
+ORD-10046,21-12-2025,Abu Dhabi,Online,Fashion,Cotton T-Shirt,1,49.99,0,49.99,20.1,Cancelled,,,No
+ORD-10325,22-12-2025,Abu Dhabi,Retail Store,Electronics,Wireless Headphones,2,181.05,0.05,344,174.83,Delivered,2,2,No
+ORD-10012,23-12-2025,Dubai,Retail Store,Electronics,USB-C Hub,5,101.79,0.05,483.5,238.57,Delivered,2,2,No
+ORD-10141,25-12-2025,Dubai,Marketplace,Electronics,Smart Watch,1,310.03,0,310.03,177.74,Delivered,8,3,No
+ORD-10265,28-12-2025,Sharjah,Online,Fashion,Running Shoes,5,251.91,0,1259.55,605.47,Cancelled,,,No
+ORD-10347,28-12-2025,Dubai,Online,Electronics,Smart Watch,2,316.28,0.1,569.3,364.46,Delivered,8,5,No
+ORD-10356,29-12-2025,Sharjah,Marketplace,Beauty,Face Cleanser,2,40.89,0,81.78,37.28,Returned,5,1,Yes
+ORD-10145,29-12-2025,Dubai,Marketplace,Home & Living,Water Bottle,3,43.75,0,131.25,40.73,Cancelled,,,No
+ORD-10161,30-12-2025,Ajman,Retail Store,Home & Living,Storage Box Set,1,57.26,0.1,51.53,20.49,Delivered,4,1,No
+ORD-10401,31-12-2025,Sharjah,Online,Electronics,Smart Watch,4,324.29,0.1,1167.44,759.58,Delivered,7,3,No
